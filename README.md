@@ -29,7 +29,7 @@
 
 | 🌸 | 🌸|
 | :----   |          ---: |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lomlomm&show_icons=true&theme=tokyonight)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lomlomm&theme=tokyonight&layout=compact)
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LOMLOMM&show_icons=true&theme=tokyonight)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOMLOMM&theme=tokyonight&layout=compact)
 
 
 ### Languages 
@@ -75,4 +75,13 @@
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-24283b?style=for-the-badge&logo=visual%20studio%20code&logoColor=2ac3de)
 ![Vim](https://img.shields.io/badge/VIM-485e30.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=lomlomm&theme=tokyonight">
+</p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nessaarellano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nessaarellano" height="30" width="40" /></a>
+<a href="https://instagram.com/nessa.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nessa.py" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vanessaserna60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vanessaserna60" height="30" width="40" /></a>
+</p>
