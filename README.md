@@ -14,6 +14,7 @@
 
 <p align="center">
     <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&borderRadius=10&fontWeight=thin&lineCount=1&theme=tokyonight&line1=react,react,c854c5;python,python,40b291;html5,html5,596f4f;javascript,javascript,9509bc"alt="My Tech Stack" />
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&borderRadius=10&fontWeight=thin&lineCount=1&theme=tokyonight&hideTitle=true&line1=jupyter,jupyter,64df25;Apache Spark,Apache Spark,f3cf2f" alt="My Tech Stack" />
 </p>
 
 
