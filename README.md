@@ -16,12 +16,7 @@
     <img id="tech" src="https://github-readme-tech-stack.vercel.app/api/cards?fontSize=16&fontWeight=thin&lineCount=5&theme=tokyonight&line1=react,react,3e19ba;Python,Python,667505;Jupyter,Jupyter,1f7ef4;JavaScript,JavaScript,e41c8a;&line2=html5,html5,6cd7db;Apache Spark,Apache Spark,298e3b;Java,Java,a514f9;C++,C++,71230c;R ,R ,5dfdb6;&line3=ArangoDB,ArangoDB,dc2176;MySQL,MySQL,246b97;Git,Git,8a3653;GitHub,GitHub,263e1e;&line4=Flask,Flask,a8bf99;Django,Django,ba4d85;Linux,Linux,684e37;&line5=NumPy,NumPy,328fd7;LaTeX,LaTeX,424ff5;bootstrap,bootstrap,0f8676;" alt="My Tech Stack" />
 </p>
 
-<style>
-    #tech{
-        width: 200px;
-        height: auto;
-    }
-</style>
+
 ## Hi there! 
 
 👨🏻‍💻  About Me...
