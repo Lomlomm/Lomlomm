@@ -29,7 +29,7 @@
 
 | 🌸 | 🌸|
 | :----   |          ---: |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LOMLOMM&show_icons=true&theme=tokyonight)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOMLOMM&theme=tokyonight&layout=compact)
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lomlomm&show_icons=true&theme=tokyonight)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lomlomm&theme=tokyonight&layout=compact)
 
 
 ### Languages 
